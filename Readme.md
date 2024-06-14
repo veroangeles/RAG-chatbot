@@ -7,6 +7,7 @@ Information Search: Integrates modules to search for relevant information in a d
 Text Generation: Uses advanced text generation models to produce coherent responses.
 Customizable: Easy to adjust to different domains and applications.
 Scalability: Supports large volumes of data and simultaneous queries.
+In this case I utilized zephire as llm model, but it can change by others like llama, mistral, etc.
 
 # Previous requirements
 Google colab account
